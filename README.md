@@ -9,4 +9,5 @@ Bronie dostają nowe skórki - również te leżące na ziemi oraz trzymane prze
 
 ## w_pickup.sma
 Podnoszenie broni przyciskiem użycia (+use).
-https://www.youtube.com/watch?v=IGuPbkiaeZM
+
+[![w_pickup](https://img.youtube.com/vi/IGuPbkiaeZM/0.jpg)](https://www.youtube.com/watch?v=IGuPbkiaeZM "w_pickup")
