@@ -7,7 +7,7 @@ Every weapon lying on the floor is now glowing. Its color depends of the ammo am
 ```
 
 ## w_skins.sma
-CSGO feauture. Unique weapon skins' changer. All of them are hard-coded. [Search for them yourself.](https://gamebanana.com){:target="_blank"}
+CSGO feauture. Unique weapon skins' changer. All of them are hard-coded. [Search for them yourself.](https://gamebanana.com)
 
 ## w_pickup.sma
 CSGO feauture. Press E to pick-up weapons.
