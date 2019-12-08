@@ -3,8 +3,6 @@ This repository contains all AMXX plugins I've ever made. I will not be providin
 ## w_glow.sma
 Every weapon lying on the floor is now glowing, and the color depends of its ammo amount.
 
-<`empty`, `full: ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)`>
-
 ## w_skins.sma
 CSGO feauture. Unique weapon skins' changer. All of them are hard-coded. [Search for them yourself.](https://gamebanana.com)
 
