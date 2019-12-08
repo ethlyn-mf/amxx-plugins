@@ -1,13 +1,13 @@
-# cs-plugins
-Repozytorium z moimi wtyczkami na serwer Counter-Strike.
+This repository contains all AMXX plugins I've ever made. I will not be providing any support.
 
 ## w_glow.sma
-Bronie leżące na ziemi połyskują od zieleni do czerwieni w zależności od stanu amunicji.
+Every weapon lying on the floor is now glowing. Its color depends of their ammo amount.
+<empty - red, full - green>
 
 ## w_skins.sma
-Bronie dostają nowe skórki - również te leżące na ziemi oraz trzymane przez gracza. Wybór poprzez menu.
+CSGO feauture. Unique weapon skins' changer. All of them are hard-coded. Search for them yourself. Where? GameBanana.com, I guess?
 
 ## w_pickup.sma
-Podnoszenie broni przyciskiem użycia (+use).
+CSGO feauture. Press E to pick-up weapons.
 
 [![w_pickup](https://img.youtube.com/vi/IGuPbkiaeZM/0.jpg)](https://www.youtube.com/watch?v=IGuPbkiaeZM "w_pickup")
