@@ -1,7 +1,7 @@
 This repository contains all AMXX plugins I've ever made. I will not be providing any support.
 
 ## w_glow.sma
-Every weapon lying on the floor is now glowing. Its color depends of their ammo amount.
+Every weapon lying on the floor is now glowing. Its color depends of the ammo amount.
 <empty - red, full - green>
 
 ## w_skins.sma
