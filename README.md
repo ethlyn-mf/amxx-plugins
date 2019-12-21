@@ -4,7 +4,7 @@ This repository contains all AMXX plugins I've ever made. I will not be providin
 Every weapon lying on the floor is now glowing, and the color depends of its ammo amount.
 
 ## w_skins.sma
-CSGO feauture. Unique weapon skins' changer. All of them are hard-coded. [Search for them yourself.](https://gamebanana.com)
+CSGO feauture. Unique weapon skins' changer. All file paths are hard-coded. [Search for them yourself.](https://gamebanana.com)
 
 ## w_pickup.sma
 CSGO feauture. Press E to pick-up weapons.
