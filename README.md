@@ -7,6 +7,6 @@ Every weapon lying on the floor is now glowing, and the color depends of its amm
 CSGO feauture. Weapon skins' changer. All files' paths are hard-coded. [Search for the models yourself.](https://gamebanana.com)
 
 ## w_pickup.sma
-CSGO feauture. Press E to pick-up weapons.
+CSGO feauture. Hover the weapon, press E to pick-up.
 
 [![w_pickup](https://img.youtube.com/vi/IGuPbkiaeZM/0.jpg)](https://www.youtube.com/watch?v=IGuPbkiaeZM "w_pickup")
