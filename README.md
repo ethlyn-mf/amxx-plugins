@@ -1,4 +1,4 @@
-This repository contains all AMXX plugins I've ever made.
+This repository contains (or soon will be) all AMXX plugins I've ever made.
 
 ## w_glow.sma
 Every weapon lying on the floor is now glowing, and the color depends on its ammo amount.
