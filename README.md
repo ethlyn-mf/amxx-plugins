@@ -7,4 +7,4 @@ Every weapon lying on the floor is now glowing, and the color depends on its amm
 Adds a few new models (v_\*.mdl, w_\*.mdl, p_\*.mdl) to some weapons and allows you to choose through the menu. [Search for required models yourself.](https://gamebanana.com/skins/games/4254)
 
 ## w_pickup.sma
-Hover the weapon, press E to pick-up.
+Hover the weapon and press E to pick-up.
