@@ -9,4 +9,4 @@ Wtyczka pozwalająca dodać na serwer niestandardowe modele do broni, ale lepsza
 Podnoszenie broni przyciskiem użycia (+use)
 
 ## w_glow.sma
-Bronie leżące na ziemi leżą świecą w kolorze zależnym od amunicji
+Bronie leżące na ziemi świecą w kolorze zależnym od amunicji
